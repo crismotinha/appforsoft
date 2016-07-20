@@ -1,0 +1,23 @@
+/*var esp = [{
+  "nextlink": "http://google.com",
+  "urlimg": "images/volei.png",
+  "sportname": "volei"
+},
+
+ {
+  "nextlink": "http://google.com",
+  "urlimg": "images/esgrima.png",
+  "sportname": "esgrima"
+},
+{
+  "nextlink": "http://google.com",
+  "urlimg": "images/esgrima.png",
+  "sportname": "lalaa"
+},
+{
+  "nextlink": "http://google.com",
+  "urlimg": "images/esgrima.png",
+  "sportname": "eteasdas"
+}
+]*/
+var esp = [{"idesporte": 1,"nome": "Atletismo","ididioma": 1,"icon_end": "null"}, {"idesporte": 2,"nome": "Badminton ","ididioma": 1,"icon_end": "null"}, {"idesporte": 3,"nome": "Basquetebol","ididioma": 1,"icon_end": "null"}, {"idesporte": 4,"nome": "Boxe","ididioma": 1,"icon_end": "null"}, {"idesporte": 5,"nome": "Canoagem ","ididioma": 1,"icon_end": "null"}, {"idesporte": 6,"nome": "Ciclismo ","ididioma": 1,"icon_end": "null"}, {"idesporte": 7,"nome": "Esgrima","ididioma": 1,"icon_end": "null"}, {"idesporte": 8,"nome": "Futebol","ididioma": 1,"icon_end": "null"}, {"idesporte": 9,"nome": "Ginástica ","ididioma": 1,"icon_end": "null"}, {"idesporte": 10,"nome": "Golfe","ididioma": 1,"icon_end": "null"}, {"idesporte": 11,"nome": "Handebol","ididioma": 1,"icon_end": "null"}, {"idesporte": 12,"nome": "Hipismo","ididioma": 1,"icon_end": "null"}, {"idesporte": 13,"nome": "Hóquei sobre Grama","ididioma": 1,"icon_end": "null"}, {"idesporte": 14,"nome": "Judô","ididioma": 1,"icon_end": "null"}, {"idesporte": 15,"nome": "Levantamento de Peso","ididioma": 1,"icon_end": "null"}, {"idesporte": 16,"nome": "Luta Olímpica","ididioma": 1,"icon_end": "null"}, {"idesporte": 17,"nome": "Maratonas Aquáticas","ididioma": 1,"icon_end": "null"}, {"idesporte": 18,"nome": "Nado Sincronizado","ididioma": 1,"icon_end": "null"}, {"idesporte": 19,"nome": "Natação","ididioma": 1,"icon_end": "null"}, {"idesporte": 20,"nome": "Pentatlo Moderno","ididioma": 1,"icon_end": "null"}, {"idesporte": 21,"nome": "Polo Aquático","ididioma": 1,"icon_end": "null"}, {"idesporte": 22,"nome": "Remo ","ididioma": 1,"icon_end": "null"}, {"idesporte": 23,"nome": "Rugby de 7","ididioma": 1,"icon_end": "null"}, {"idesporte": 24,"nome": "Saltos Ornamentais","ididioma": 1,"icon_end": "null"}, {"idesporte": 25,"nome": "Taekwondo ","ididioma": 1,"icon_end": "null"}, {"idesporte": 26,"nome": "Tênis Olímpico","ididioma": 1,"icon_end": "null"}, {"idesporte": 27,"nome": "Tênis de Mesa","ididioma": 1,"icon_end": "null"}, {"idesporte": 28,"nome": "Tiro com Arco","ididioma": 1,"icon_end": "null"}, {"idesporte": 29,"nome": "Tiro Esportivo","ididioma": 1,"icon_end": "null"}, {"idesporte": 30,"nome": "Triatlo","ididioma": 1,"icon_end": "null"}, {"idesporte": 31,"nome": "Vela","ididioma": 1,"icon_end": "null"}, {"idesporte": 32,"nome": "Vôlei de Praia","ididioma": 1,"icon_end": "null"}, {"idesporte": 33,"nome": "Voleibol","ididioma": 1,"icon_end": "null"}, {"idesporte": 34,"nome": "Atletismo","ididioma": 1,"icon_end": "null"}, {"idesporte": 35,"nome": "Basquetebol em cadeira de rodas","ididioma": 1,"icon_end": "null"}, {"idesporte": 36,"nome": "Bocha","ididioma": 1,"icon_end": "null"}, {"idesporte": 37,"nome": "Canoagem ","ididioma": 1,"icon_end": "null"}, {"idesporte": 38,"nome": "Ciclismo ","ididioma": 1,"icon_end": "null"}, {"idesporte": 39,"nome": "Esgrima em cadeira de rodas","ididioma": 1,"icon_end": "null"}, {"idesporte": 40,"nome": "Futebol de 5","ididioma": 1,"icon_end": "null"}, {"idesporte": 41,"nome": "Futebol de 7","ididioma": 1,"icon_end": "null"}, {"idesporte": 42,"nome": "Goalball","ididioma": 1,"icon_end": "null"}, {"idesporte": 43,"nome": "Halterofilismo","ididioma": 1,"icon_end": "null"}, {"idesporte": 44,"nome": "Hipismo","ididioma": 1,"icon_end": "null"}, {"idesporte": 45,"nome": "Judo","ididioma": 1,"icon_end": "null"}, {"idesporte": 46,"nome": "Natação","ididioma": 1,"icon_end": "null"}, {"idesporte": 47,"nome": "Remo ","ididioma": 1,"icon_end": "null"}, {"idesporte": 48,"nome": "Rugby em cadeira de rodas","ididioma": 1,"icon_end": "null"}, {"idesporte": 49,"nome": "Tênis de mesa","ididioma": 1,"icon_end": "null"}, {"idesporte": 50,"nome": "Tênis em cadeira de rodas","ididioma": 1,"icon_end": "null"}, {"idesporte": 51,"nome": "Tiro com arco","ididioma": 1,"icon_end": "null"}, {"idesporte": 52,"nome": "Tiro Esportivo","ididioma": 1,"icon_end": "null"}, {"idesporte": 53,"nome": "Triatlo","ididioma": 1,"icon_end": "null"}, {"idesporte": 54,"nome": "Vela","ididioma": 1,"icon_end": "null"}, {"idesporte": 55,"nome": "Voleibol sentado","ididioma": 1,"icon_end": "null"}]
